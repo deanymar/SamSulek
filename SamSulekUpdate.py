@@ -9,7 +9,7 @@ from datetime import datetime
 import isodate
 import pypyodbc as odbc
 import re
-api_key = 'AIzaSyAc854gvMOlbCPleAYUyg3Lqn7TL5KFmy4'
+api_key = ''
 all_data = []
 api_service_name = "youtube"
 api_version = "v3"
